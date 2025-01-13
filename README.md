@@ -21,12 +21,15 @@ cd schedule-generator
 Install Dependencies
 The script requires Python 3.x. You can install any necessary dependencies using pip:
 pip install -r requirements.txt
+```
 Usage
 Once the project is set up, you can easily run the schedule generator script.
 
 Run the Script
 In your terminal, run the following command:
+```
 python schedule_generator.py
+```
 Customize Input
 The script will prompt you for inputs (e.g., time slots, tasks, and days). Fill out the information based on your preference, and the program will generate your personalized schedule.
 
