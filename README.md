@@ -16,10 +16,14 @@ To get started with the schedule generator, follow the steps below.
 
 ```bash
 git clone https://github.com/rudra2001-coder/schedule-generator.git
+```
 Navigate to the Project Directory
+```
 cd schedule-generator
+```
 Install Dependencies
 The script requires Python 3.x. You can install any necessary dependencies using pip:
+```
 pip install -r requirements.txt
 ```
 Usage
