@@ -50,11 +50,7 @@ Your Schedule for Today:
 ### Contributing
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-### Fork the repo
-Create a branch for your feature (git checkout -b feature-name)
-Commit your changes (git commit -am 'Add new feature')
-Push to the branch (git push origin feature-name)
-Create a new pull request
+
 ### License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
