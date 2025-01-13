@@ -1,7 +1,7 @@
-Schedule Generator
+#Schedule Generator
 A simple and efficient Python script to generate customizable schedules. Whether you need a study timetable, work schedule, or personal planner, this tool can help you stay organized and manage your time effectively.
 
-Features
+##Features
 Customizable: Easily tailor the schedule to your specific needs (e.g., daily, weekly, or monthly).
 User-friendly: Simple command-line interface (CLI) for easy use.
 Time-efficient: Quickly generate schedules with minimal input.
@@ -36,7 +36,7 @@ Customize Input The script will prompt you for inputs (e.g., time slots, tasks, 
 
 Output Your generated schedule will be displayed in the terminal and can also be saved to a .txt or .csv file for future use.
 
-Example
+#Example
 Here’s an example of what the output might look like after running the script:
 
 yaml
@@ -46,7 +46,7 @@ Your Schedule for Today:
 - 10:30 AM - 12:00 PM: Coding Practice
 - 1:00 PM - 2:00 PM: Lunch Break
 - 2:30 PM - 4:00 PM: Project Development
-Contributing
+##Contributing
 If you’d like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
 Fork the repo
